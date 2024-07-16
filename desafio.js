@@ -1,5 +1,5 @@
 // Definindo variáveis para o nome do herói e a quantidade de XP
-const nomeHeroi = "Deadpool"; // Exemplo de nome
+const nomeHeroi = "Deadpool";
 const xpHeroi = 700; // Exemplo de XP
 
 // Variável para armazenar o nível do herói
